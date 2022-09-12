@@ -28,4 +28,8 @@ Passos para criação de uma API Rest em Java 11 com Spring Boot (2.x.x) utiliza
     - Spring Data MongoDB
   - Generate
 * Descompactar o arquivo gerado e abri-lo com o IntelliJ
+* Abrir a classe [nome do projeto]Application.java e rodar o projeto
+* Abrir o navegador na página: localhost:8080 clicar em enter e irá aparecer assim:
+
+<img src="https://cdn.discordapp.com/attachments/848586232116412466/1018959567280943134/Screen_Shot_2022-09-12_at_15.58.49.png">
 
