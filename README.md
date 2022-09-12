@@ -4,9 +4,7 @@ Passos para criação de uma API Rest em Java 11 com Spring Boot (2.x.x) utiliza
 
 **Autor**<br>
 [Franciele do Carmo Silveira](https://www.linkedin.com/in/cfrancielesilveira/)
-
 <br>
-
 ## Downloads
 
 * IntelliJ      ->   IDE pada desenvolvimento
