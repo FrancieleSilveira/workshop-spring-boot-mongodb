@@ -14,7 +14,6 @@ Passos para criação de uma API Rest em Java 11 com Spring Boot (2.x.x) utiliza
 * Mongo DB      ->   Banco de dados
 
 * Mongo Compass ->   Interface gráfica do MongoDB
-<br>
 
 ## Criação do projeto
 
